@@ -1,2 +1,2 @@
 # BlogBonito
-Un blog para practicar con git
+Un blog para practicar con git y github
